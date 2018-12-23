@@ -137,3 +137,10 @@
   for (let i = 0; i < 10; i++) {
     console.log('for ' + i)
   }
+
+// More on objects
+  // passed by reference, not by value
+  const obj3 = {}
+  const obj4 = obj3
+  obj4.foo = 'bar'
+  console.log(obj3) // prints { foo: 'bar' }
