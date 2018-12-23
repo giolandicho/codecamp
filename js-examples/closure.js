@@ -1,7 +1,7 @@
 // A closure is a function with an environment
 
 // This takes what we learned about functional programming into practice
-// multiplier is a function that returns another function
+// multiplier is a higher order function that returns another function
 // the multiplier function takes a mult param
 // the returning function takes a number as a param to be multiplied
 function multiplier(mult) {
