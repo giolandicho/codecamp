@@ -20,4 +20,6 @@ You must create a generic button component where you pass styles and the symbol 
 
 You must also add CSS to make it look good!
 
+Lastly, create a Readme for your project. Let people know how it works and what you did. [This](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is the Readme cheatsheet I use.
+
 When you are all done, make sure the final code is on Github. Deploy to Netlify. 
