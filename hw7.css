@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+.dropdown {
+     width:auto;
+     height:fit-content;
+     background:rgb(170, 216, 231);
+     border:15px black;
+     margin:20px;   
+}
+.randomImage {
+    background: lightgray;
+    width: auto;
+    height: fit-content;
+    border: 5px black;
+}
+#dropdownMenu{
+    width:500px;
+    height:fit-content;
+}
+.selectedImage {
+    background: lightgray;
+    width: fit-content;
+    height: fit-content;
+    border: 5px black;
+    margin:auto;
+    padding: 10px;
+    box-shadow: 10px 10px grey;
+}
